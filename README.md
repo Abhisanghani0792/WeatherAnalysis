@@ -10,7 +10,7 @@
 across 10 years of the data indicate an increase due to Global warming
 
 ### conclusion:
- - No change in average humidity over the ten years from 2006 to 2016. Increase in average apparent temperature can be seen in the year 2009 then again it dropped in 2010 , then a slight increase in 2011 then a significant drop is observed in 2015 and again it increased in 2016.
+ - Main Conclusion is No change in average humidity over the ten years from 2006 to 2016. Increase in average apparent temperature can be seen in the year 2009 then again it dropped in 2010 , then a slight increase in 2011 then a significant drop is observed in 2015 and again it increased in 2016.
 
 ### Pre requisites: 
 - Python 3 installed
